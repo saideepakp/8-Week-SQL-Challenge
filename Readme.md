@@ -10,7 +10,7 @@ Each week presents a unique business scenario with its own database schema, busi
 
 ## 📌 Table of Contents
 
-* Week 1 – Danny's Diner
+* [Week 1 – Danny's Diner](https://github.com/saideepakp/8-Week-SQL-Challenge/tree/main/Week-1)
 * Week 2 – Pizza Runner
 * Week 3 – Foodie-Fi
 * Week 4 – Data Bank
