@@ -19,3 +19,12 @@ Each week presents a unique business scenario with its own database schema, busi
 * Week 7 – Balanced Tree Clothing Co.
 * Week 8 – Fresh Segments
 
+---
+## Connect with Me
+
+**Sai Deepak Poondla**
+Data Analyst | Power BI | SQL | Python | Tableau
+
+[LinkedIn](http://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio](https://saideepakp.github.io)
+
+
