@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains my solutions and notes for the 8-Week SQL Challenge by @datawithdanny, a series of real-world inspired case studies designed to help data professionals strengthen their SQL skills — from foundational queries to advanced analytics.
+This repository contains my solutions and notes for the 8-Week SQL Challenge by [Danny Ma](https://www.datawithdanny.com/), a series of real-world inspired case studies designed to help data professionals strengthen their SQL skills — from foundational queries to advanced analytics.
 
 Each week presents a unique business scenario with its own database schema, business questions, and analytical challenges. The problems are modelled after real datasets and realistic business problems faced by data analysts and engineers.
 
