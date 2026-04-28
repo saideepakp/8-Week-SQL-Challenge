@@ -12,7 +12,7 @@ Each week presents a unique business scenario with its own database schema, busi
 
 * [Week 1 – Danny's Diner](https://github.com/saideepakp/8-Week-SQL-Challenge/tree/main/Week-1)
 * [Week 2 – Pizza Runner](https://github.com/saideepakp/8-Week-SQL-Challenge/tree/main/Week-2)
-* Week 3 – Foodie-Fi
+* [Week 3 – Foodie-Fi](https://github.com/saideepakp/8-Week-SQL-Challenge/tree/main/Week-3)
 * Week 4 – Data Bank
 * Week 5 – Data Mart
 * Week 6 – Clique Bait
